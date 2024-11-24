@@ -1,0 +1,30 @@
+{
+  "extensionDescription": {
+    "description": "A chrome extension to play HTML5 Video element without a full screen option, such as YT shorts and Instagram reels, in full screen.",
+    "message": "A chrome extension to play HTML5 Video element without a full screen option, such as YT shorts and Instagram reels, in full screen."
+  },
+  "extensionName": {
+    "description": "Full Screen Video",
+    "message": "Full Screen Video"
+  },
+  "toggleTheme": {
+    "message": "Toggle theme"
+  },
+  "loading": {
+    "message": "Loading..."
+  },
+  "greeting": {
+    "description": "Greeting message",
+    "message": "Hello, My name is $NAME$",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "John Doe"
+      }
+    }
+  },
+  "hello": {
+    "description": "Placeholder example",
+    "message": "Hello $1"
+  }
+}
